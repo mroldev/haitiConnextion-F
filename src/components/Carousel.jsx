@@ -28,7 +28,7 @@ import { Carousel} from "react-bootstrap"
       alt="Second slide"
     />
     <Carousel.Caption>
-    <h1 className="text- fw-bold">Share your most beautiful places to visit in Haiti.</h1>
+    <h1 className="text- fw-bold">Share your beautiful places .</h1>
       
       
     </Carousel.Caption>
@@ -40,7 +40,7 @@ import { Carousel} from "react-bootstrap"
       alt="Third slide"
     />
     <Carousel.Caption>
-    <h1 className="text- fw-bold">we have dream places for your holidays</h1>
+    <h1 className="text- fw-bold">we have dream places</h1>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
