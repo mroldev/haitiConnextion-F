@@ -113,7 +113,7 @@ const Login = () => {
           </MDBValidation>
           <br />
           <GoogleLogin
-            clientId="Your Client Id"
+            clientId="75638362134-hh2otb938rr8k2c4qpqh1r6bh5dvt26r.apps.googleusercontent.com"
             render={(renderProps) => (
               <MDBBtn
                 style={{ width: "100%" }}
